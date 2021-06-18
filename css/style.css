@@ -161,6 +161,7 @@ a.source:visited {
   padding: 5px 0;
   text-align: center;
   color: #333;
+  display: none;
 }
 
 /* Storymap title & subtitle */
